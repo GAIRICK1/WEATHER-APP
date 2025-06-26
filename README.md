@@ -46,21 +46,34 @@ react-weather-app/
 
 ## ⚙️ Setup Instructions
 
-1. Clone the repo  
+1. Clone the repo
+
+```bash
    git clone https://github.com/GAIRICK1/WEATHER-APP.git
+```
 
-2. Navigate to project folder  
+2. Navigate to project folder
+
+```bash
    cd WEATHER-APP/react-weather-app
+```
 
-3. Install dependencies  
+3. Install dependencies
+
+```bash
    npm install
+```
 
-4. Create .env file and add your API key:  
+4. Create .env file and add your API key:
+
+```bash
    REACT_APP_API_KEY=your_api_key
+```
 
-5. Run the app locally  
-   npm run dev
+5. Run the app locally
 
----
+```bash
+   npm start
+```
 
 Made with ❤️ by Gairick Purakayastha
